@@ -11,3 +11,5 @@
 * `git pull` to pull down latest branch
 * `git checkout - b <name of new branch> <name of old brranch>`
 
+## How To fork(Copy) a repo
+* You cn do that by clicking on  the `fork` button
